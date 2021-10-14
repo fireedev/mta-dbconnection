@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <min_mta_version server="1.5.4-9.11342" client="1.5.4-9.11342" />
+	<script src="events.lua" type="server"/>
+	<export function="getConnection" type="server"/>
+</meta>
